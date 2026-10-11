@@ -1,12 +1,9 @@
 ```
-                                                                            
-    ██████╗  ██████╗ ███████╗██╗  ██╗ █████╗ ███╗   ██╗                     
-    ██╔══██╗██╔═══██╗██╔════╝██║  ██║██╔══██╗████╗  ██║                     
-    ██████╔╝██║   ██║███████╗███████║███████║██╔██╗ ██║                     
-    ██╔══██╗██║   ██║╚════██║██╔══██║██╔══██║██║╚██╗██║                     
-    ██║  ██║╚██████╔╝███████║██║  ██║██║  ██║██║ ╚████║                     
-    ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝                     
-                                                                            
+         ___                 _  _       _
+    ___ / _ \ _ __ ___  _ __| || |   __| | ___
+   / __| | | | '_ ` _ \| '__| || |_ / _` |/ _ \
+  | (__| |_| | | | | | | |  |__   _| (_| |  __/
+   \___|\___/|_| |_| |_|_|     |_|  \__,_|\___|
 ```
 
 <div align="center">
@@ -22,15 +19,18 @@
 │                                                          │
 │   $ whoami                                               │
 │   > B.Tech CSE (Cybersecurity) @ Amrita, Chennai         │
-│   > 1st place Kingslayer CTF · Cyber Arena · System      │
-│     Siege · Blackout Crisis · Terminal Verse 2.0         │
-│   > co-organized Mirage CTF 2.0 (1,300+ registrations)  │
-│   > 800+ participants across events · 150+ taught        │
+│   > breaks things on purpose, builds the thing that      │
+│     catches it next                                      │
 │                                                          │
-│   $ cat /etc/interests                                   │
-│   > OSINT · threat intelligence · offensive tooling      │
-│   > web exploitation · reverse engineering · forensics   │
-│   > building things that break things                    │
+│   $ cat wins.txt | head                                  │
+│   > 1st  Kingslayer CTF · team of 2 · no AI · won by 6   │
+│   > 1st  Cyber Arena, System Siege, Blackout Crisis...   │
+│   > ran Mirage CTF 2.0 — 1,300+ came for round one       │
+│                                                          │
+│   $ cat focus                                            │
+│   > OSINT · threat intel · offensive tooling             │
+│   > web · reversing · forensics · the stuff nobody       │
+│     documents properly                                   │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 ```
@@ -88,12 +88,8 @@ echo "[*] all systems operational"
 
 ### `> neofetch --stats`
 
-<img src="https://github-readme-stats.vercel.app/api?username=roshansrikanth21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshansrikanth21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="165"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=roshansrikanth21&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=roshansrikanth21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=roshansrikanth21&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" height="165"/>
 
 </div>
 
@@ -106,14 +102,11 @@ echo "[*] all systems operational"
 <br>
 
 <a href="https://linkedin.com/in/roshansrikanth21"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://medium.com/@C0mr4de"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="https://instagram.com/r0shan.exe"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="mailto:roshansrikanth21@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-```
-                                                              
-  ╔══════════════════════════════════════════════════════╗    
-  ║  visitors:                                          ║    
-  ╚══════════════════════════════════════════════════════╝    
-```
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=roshansrikanth21&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
 
