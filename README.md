@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%3E+the+game+rewards+the+player;who+seeks+no+reward;but+the+game+itself." alt="Typing SVG" />
+<img src="./quote.svg" alt="the game rewards the player who seeks no reward, but the game itself" />
 
 <br>
 
