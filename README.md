@@ -1,12 +1,8 @@
-```
-         ___                 _  _       _
-    ___ / _ \ _ __ ___  _ __| || |   __| | ___
-   / __| | | | '_ ` _ \| '__| || |_ / _` |/ _ \
-  | (__| |_| | | | | | | |  |__   _| (_| |  __/
-   \___|\___/|_| |_| |_|_|     |_|  \__,_|\___|
-```
-
 <div align="center">
+
+<img src="./matrix.svg" alt="c0mr4de" width="100%" />
+
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%3E+the+game+rewards+the+player;who+seeks+no+reward;but+the+game+itself." alt="Typing SVG" />
 
